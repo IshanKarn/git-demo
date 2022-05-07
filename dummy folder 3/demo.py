@@ -1,0 +1,1 @@
+print("It's content of 3rd file.")
